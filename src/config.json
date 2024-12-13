@@ -1,0 +1,10 @@
+{
+    "urls": [
+      "https://example.com",
+      "https://google.com",
+      "https://rust-lang.org"
+    ],
+    "num_threads": 4,
+    "timeout": 5,
+    "max_retries": 2
+  }
